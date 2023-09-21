@@ -6,24 +6,24 @@
     <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/css/styles.css">
 </head>
 <body>
-    <heading>
-     <h1 class="heading">DEVOPS Jenkins with Maven and Tomcat</h1>
-     </heading>
-    <section class="container">
-      <img src="https://res.cloudinary.com/thirus/image/upload/v1634585194/images/details-1_e7ojp9.svg" alt="">
-      <div>
-        <h1>
-          Perfect solution<br>
-          <strong>for your small business</strong>
-        </h1>
-        <p>
-          Maecenas fringilla quam posuere, pellentesque est nec, gravida turpis. Integer vitae mollis felis. Integer id quam id tellus hendrerit laciniad binfer
-        </p>
-        <p>
-          Sed id dui rutrum, dictum urna eu, accumsan turpis. Fusce id auctor velit, sed viverra dui rem dina
-        </p>
-        <button>Modal</button>
-      </div>
-    </section>
+   <section>
+     <img src="https://res.cloudinary.com/thirus/image/upload/v1635003545/images/mobile-ux_yc0c3w.png" alt="">
+     <div id="list1">
+       <h3>List Building</h3>
+       <p>It's very easy to start creating email lists for your marketing actions, give it a try</p>
+       <h3>Campaign Tracker</h3>
+       <p>Campaigns is a feature we've created since the beginning and it's at the core of Lomar</p>
+       <h3>Analytics Tool</h3>
+       <p>Lomar collects all the necessary data to help you analyse different situations</p>
+     </div>
+     <div id="list2">
+       <h3>Admin Control</h3>
+       <p>Rights of users and admins can easily be managed through the control panel</p>
+       <h3>Integration Setup</h3>
+       <p>We're providing a step-by-step integration session to implement automation</p>
+       <h3>Help Line Support</h3>
+       <p>Quality support is our top priority so please contact us for any problem you encounter</p>
+     </div>
+   </section>
 </body>
 </html>
