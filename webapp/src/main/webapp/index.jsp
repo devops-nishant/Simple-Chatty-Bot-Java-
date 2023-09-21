@@ -6,6 +6,9 @@
     <link rel="stylesheet" type="text/css" href="<%= request.getContextPath() %>/css/styles.css">
 </head>
 <body>
+    <heading>
+     <h1 class="heading">DEVOPS Jenkins with Maven and Tomcat</h1>
+     </heading>
     <section class="container">
       <img src="https://res.cloudinary.com/thirus/image/upload/v1634585194/images/details-1_e7ojp9.svg" alt="">
       <div>

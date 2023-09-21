@@ -6,6 +6,11 @@
   box-sizing: border-box;
 }
 
+.heading {
+    text-align: "center";
+    color: "orange";
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   line-height: 1.6;
