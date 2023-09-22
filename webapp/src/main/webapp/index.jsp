@@ -7,6 +7,7 @@
 </head>
 <body>
    <section>
+   <h1>This is a sample heading </h1>
      <img src="https://res.cloudinary.com/thirus/image/upload/v1635003545/images/mobile-ux_yc0c3w.png" alt="">
      <div id="list1">
        <h3>List Building</h3>
